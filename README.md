@@ -9,3 +9,8 @@ android-ndk-r17c
 ```text
 ffmpeg4.2.1
 ```
+
+## android最低版本
+```text
+android-21
+```
